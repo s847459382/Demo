@@ -6,5 +6,6 @@ public class Test03 {
 
         System.out.println("开始做作了");
         System.out.println("来呀 快活啊");
+        System.out.println("反正有大把时光");
     }
 }
